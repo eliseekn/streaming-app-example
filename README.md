@@ -12,6 +12,6 @@ Server: rtmp://127.0.0.1/live
 Stream key: stream
 ```
 
-## Web App
+## Web
 
 Open file `stream.html` on web browser.

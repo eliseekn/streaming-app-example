@@ -1,4 +1,4 @@
-# Streaming App
+# Streaming App Example
 
 ## Docker
 ```

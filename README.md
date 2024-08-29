@@ -14,4 +14,4 @@ Stream key: stream
 
 ## Web
 
-Open file `stream.html` on web browser.
+Open `stream.html` file on web browser.
